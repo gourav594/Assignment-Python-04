@@ -1,0 +1,16 @@
+================================================================================
+WEATHER ANALYSIS REPORT
+================================================================================
+Generated: 2025-12-04 10:31:32
+
+Records: 2500, Features: 6
+Features: Temperature, Humidity, Wind_Speed, Pressure, Cloud_Cover, Rain
+
+Statistical Summary:
+Temperature: Mean=22.58, Median=22.54, Std=7.33
+Humidity: Mean=64.35, Median=63.92, Std=19.95
+Wind_Speed: Mean=9.91, Median=9.91, Std=5.78
+Pressure: Mean=1014.31, Median=1013.43, Std=20.20
+Cloud_Cover: Mean=49.66, Median=49.49, Std=29.12
+
+Rainy days: 314 (12.6%)
